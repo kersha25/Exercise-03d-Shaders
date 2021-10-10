@@ -1,9 +1,8 @@
-# 03-Juicy-Match-3
+# Exercise-03d-Shaders
 
-Project for MSCH-C220, 9 October 2021
+Exercise for MSCH-C220, 30 September 2021
 
-Making a simple match-3 game juicy.
-Adds features like a soundtrack, sound effect, changing colors, particles when selected, elements falling off screen when matched,
+Adding several shaders and a WorldEnvironment to a simple match-3 game.
 
 ## To play
 
@@ -23,8 +22,6 @@ Built using Godot 3.3.3
  * [Godot 2D fire shader](https://godotshaders.com/shader/2d-fire/)
  * [Godot Clouds in motion shader](https://godotshaders.com/shader/clouds-in-motion/)
  * [GDQuest Visual Shader Editor in Godot 3.1: Dissolve Shader (tutorial)](https://www.youtube.com/watch?v=sf_Dc4ew3eM)
- * https://patrickdearteaga.com/
- * https://freesound.org/people/plasterbrain/sounds/399093/
 
 ## Future Development
 
@@ -33,4 +30,3 @@ None
 ## Created by 
 
 Anastasia Kersh
-```
