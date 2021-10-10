@@ -3,6 +3,7 @@
 Project for MSCH-C220, 9 October 2021
 
 Making a simple match-3 game juicy.
+Adds features like a soundtrack, sound effect, changing colors, particles when selected, elements falling off screen when matched,
 
 ## To play
 
