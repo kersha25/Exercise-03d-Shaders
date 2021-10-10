@@ -1,6 +1,6 @@
 # 03-Juicy-Match-3
 
-Project for MSCH-C220, 30 September 2021
+Project for MSCH-C220, 9 October 2021
 
 Making a simple match-3 game juicy.
 
